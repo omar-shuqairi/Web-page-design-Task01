@@ -343,7 +343,7 @@ textarea {
 }
 
 .Home-main .about-containr .about-img {
-    background-image: url(../Images/book-863418_1920.jpg);
+    background-image: url('../Images/book-863418_1920.jpg');
     height: 350px;
     background-size: cover;
     width: 40%;
